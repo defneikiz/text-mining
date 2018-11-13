@@ -11,8 +11,8 @@
 
 ## Packages Used:
 [re](https://docs.python.org/3/library/re.html)
-[tweepy] (https://github.com/tweepy/tweepy.git)
-[textblob] (https://textblob.readthedocs.io/en/dev/)
+[tweepy](https://github.com/tweepy/tweepy.git)
+[textblob](https://textblob.readthedocs.io/en/dev/)
 
 ## <a name="Project">Project Overview:</a>
 I used the librariries listed above and the class technique in this project. The goal of this project was to analyze Elon Musk's tweets and conduct a natural language sentiment assesment to determine whether his language was positive, negative or neutral. My interest in doing this project came from the recent price changes in Tesla stocks, some of which caused by Elon Musk's tweets. I hoped to create a tool that can be used in financial models to determine Tesla stock prices, looking at the sentiment analysis of his latest tweets. 
